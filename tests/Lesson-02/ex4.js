@@ -4,4 +4,4 @@ const minWeight = oddHeight * 8 / 10;
 const idealWeight =  oddHeight * 9 / 10;
 const maxWeight = oddHeight;
 
-console.log( idealWeight, maxWeight, minWeight )
+console.log(idealWeight, maxWeight, minWeight)
